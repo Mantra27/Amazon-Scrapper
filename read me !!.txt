@@ -1,0 +1,3 @@
+edit "amazon.js" and write your desired product name in 'product' variable..
+
+and then run amazon.bat
